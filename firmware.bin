@@ -4,7 +4,7 @@
 
 A7670E modem(Serial1, 9600);  // Define A7670E serial interface
 
-const char* firmwareURL = "https://github.com/your-username/your-repo/releases/download/v1.0/firmware.bin";  // Replace with your GitHub direct link
+const char* firmwareURL = "https://github.com/smandal439/ota/releases/download/v1.0/firmware.bin";  // Replace with your GitHub direct link
 
 void setup() {
     Serial.begin(115200);
