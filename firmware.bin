@@ -2,7 +2,7 @@
 #include "A7670E.h"
 #include <Update.h>
 
-A7670E modem(Serial1, 9600);  // Define A7670E serial interface
+A7670E modem(Serial1, 115200);  // Define A7670E serial interface
 
 const char* firmwareURL = "https://github.com/smandal439/ota/releases/download/v1.0/firmware.bin";  // Replace with your GitHub direct link
 
