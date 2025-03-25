@@ -1,4 +1,4 @@
-# gps
+# ota
 This is an ESP32-WROOM-DA OTA update example using Arduino IDE.
 
 Steps to Perform OTA Update:
